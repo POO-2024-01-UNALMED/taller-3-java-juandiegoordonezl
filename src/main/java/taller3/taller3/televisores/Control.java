@@ -5,7 +5,6 @@ public class Control {
 	  public void turnOn(){
 	     tv.estado=true; 
 	    }
-	  }
 	  
 	  public void turnOff(){
 	    if (tv.estado!=false){
