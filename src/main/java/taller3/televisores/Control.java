@@ -1,10 +1,8 @@
-package televisores;
-
+package taller3.televisores;
 public class Control {
 	 private TV tv;
 	  
 	  public void turnOn(){
-	    if (tv.estado!=true){
 	     tv.estado=true; 
 	    }
 	  }
